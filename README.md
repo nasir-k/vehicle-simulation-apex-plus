@@ -21,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Components 
 
-1- Scenerio
+1- Scenerio <br />
 2- Vehicle 
 3- TableItem
 4- VehicleTableItem
