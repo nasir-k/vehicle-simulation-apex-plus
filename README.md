@@ -39,11 +39,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## what we used in this project
 
+### Technologies
+
+1- React js <br />
+2- CSS3 <br />
+3- HtML5 <br />
+
+
 ### hooks
 
-`useState`
-`useEffect`
-`useContext`
+`useState` <br />
+`useEffect` <br />
+`useContext` <br />
 
 ### Custom hook
 
