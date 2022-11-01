@@ -1,6 +1,6 @@
 # vehicle-simulation project
 
-# `npm install`
+### `npm install`
 
 to install all the dependencies for this app.
 
