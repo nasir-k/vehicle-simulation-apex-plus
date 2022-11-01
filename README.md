@@ -22,20 +22,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Components 
 
 1- Scenerio <br />
-2- Vehicle 
-3- TableItem
-4- VehicleTableItem
-5- SideBar 
-6- GridLines
-7- Dailoge
-8- NoScenerioAvailable
+2- Vehicle <br />
+3- TableItem <br />
+4- VehicleTableItem <br />
+5- SideBar <br />
+6- GridLines <br />
+7- Dailoge <br />
+8- NoScenerioAvailable <br />
 
 ### Screens
 
-1- HomeScreen - The user will be able to see the vehicles by selecting the scenerios. and when the user will click on the start button then will be able    to see the simulation in the below graph. 
-2- AddScenerioScreen  - In this screen user can add the scenerios. 
-3- AddVehicleScreen  - In the screen user can add vehicles.
-4- AllSceneriosScreen - In this screen user will be able to see all the scenerios.
+1- HomeScreen - The user will be able to see the vehicles by selecting the scenerios. and when the user will click on the start button then will be able    to see the simulation in the below graph. <br />
+2- AddScenerioScreen  - In this screen user can add the scenerios. <br />
+3- AddVehicleScreen  - In the screen user can add vehicles. <br />
+4- AllSceneriosScreen - In this screen user will be able to see all the scenerios. <br />
 
 ## what we used in this project
 
