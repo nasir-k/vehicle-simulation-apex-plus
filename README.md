@@ -64,3 +64,7 @@ and the object can have properties one is `value` and second is `valide` valid i
 ### `react-router`
 
 we have used `react-router` to make it SPA .
+
+### Storage
+
+In this project we have used `local-storage` for storing all the scenerios.
